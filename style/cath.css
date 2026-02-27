@@ -42,6 +42,10 @@ section {
   color: gold;
 }
 
+.barlink:active {
+  color: goldenrod;
+}
+
 h1 {
   padding-left: 20px;
 }
@@ -107,8 +111,14 @@ table, th, td{
 }
 
 .link:hover {
-  background-color: darkgoldenrod;
-  color: khaki;
+  box-shadow: inset 0 0 10px;
+}
+
+.link:active {
+  background-color: goldenrod;
+  color: lightyellow;
+  box-shadow: inset 0 0 30px saddlebrown;
+  transform: scale(0.98);
 }
 
 .weekday {
