@@ -1,6 +1,6 @@
 # About My Website
 
-This website contains many useful things related to the Catholic faith like prayers, information about important figures, and devotions
+This website contains many useful things related to the Catholic faith like prayers, information about important figures, and devotions.
 
 ### Homepage
 
