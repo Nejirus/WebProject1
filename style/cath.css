@@ -27,6 +27,12 @@ nav {
   padding: 15px;
   margin: 10px;
   margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+footer {
+  padding: 15px;
+  margin-top: 30px;
 }
 
 section {
