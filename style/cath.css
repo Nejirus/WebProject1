@@ -33,6 +33,10 @@ section {
   margin: 10px;
 }
 
+ol {
+  list-style-type: upper-roman;
+}
+
 .barlink {
   color: white;
   margin: 10px;
@@ -160,6 +164,10 @@ a {
   justify-content: center;
   flex-direction: column;
   margin: 0px;
+}
+
+#believe {
+  text-align: left;
 }
 
 @media (max-width: 800px) {
