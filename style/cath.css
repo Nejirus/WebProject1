@@ -37,6 +37,10 @@ ol {
   list-style-type: upper-roman;
 }
 
+span {
+  font-size: smaller;
+}
+
 .barlink {
   color: white;
   margin: 10px;
@@ -79,7 +83,6 @@ p {
 
 .prayer {
   flex: 50;
-  text-align: center;
   justify-content: space-between;
   background-color: lightyellow;
   border: 5px solid lightyellow;
