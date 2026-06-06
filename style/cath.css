@@ -194,7 +194,7 @@ a {
     flex-direction: column;
   }
   .home {
-    width: 97%;
+    width: 100%;
   }
   .bothprayers{
     display: flex;
