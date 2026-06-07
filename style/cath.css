@@ -92,6 +92,10 @@ p {
   box-shadow: 4px 4px 10px;
 }
 
+.hymn {
+  text-align: center;
+}
+
 table, th, td{
   padding: 3px;
   border: 2px solid;
