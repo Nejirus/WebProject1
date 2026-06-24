@@ -177,6 +177,11 @@ a {
   text-align: left;
 }
 
+#mysteries {
+	display: flex;
+	flex-direction: row;
+}
+
 @media (max-width: 800px) {
   #office {
     display: flex;
@@ -204,4 +209,7 @@ a {
     display: flex;
     flex-direction: column;
   }
+	#mysteries {
+		flex-direction: column;
+	}
 }
